@@ -1,0 +1,67 @@
+
+#particles-js{ 
+    position:fixed; 
+    width: 100%; 
+    height: 100%; 
+    background-color: black;  
+    z-index: -1;
+}
+
+
+.header {
+    color: white;
+    text-align: center;
+    padding: 40vh 0vh 100vh 0vh;
+}
+
+h1 {
+    font-size: 100px !important;
+}
+
+.links{
+    display:inline-block;
+}
+
+.announcement {
+    font-weight: bold;
+}
+.update {
+    padding: 40vh 20vh 100vh 20vh;
+}
+
+.technologieslogo {
+    margin: 0% 20% 10% 20%;
+    display: inline-block;
+}
+
+img {
+    max-width:20%;
+    max-height: 100%;
+}
+
+
+.things {
+    color: white;
+    text-align: center;
+    margin: 0% 20% 10% 20%;
+}
+
+.recentprojects {
+   padding-top: 40vh;
+   padding-bottom: 40vh;
+}
+
+.howsitgoing {
+    padding-top: 40vh;
+    padding-bottom: 10vh;
+}
+
+.aboutme {
+   padding-top: 30vh;
+   padding-bottom: 10vh;
+}
+
+.annoucementx {
+    color:crimson;
+    font-style: italic;
+}
